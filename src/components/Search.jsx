@@ -47,12 +47,6 @@ input {
     border-radius: 0.5rem;
     outline: none;
     width: 100%;
-    @media (max-width: 1068px) {
-      padding: 1rem 8rem;
-      padding-left: 8rem;
-  }
-     
-    
 }
 svg{
     position: absolute;
